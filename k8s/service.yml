@@ -8,6 +8,6 @@ spec:
   selector:
     app: spring-service
   ports:
-    - port: 8282
+    - port: 8283
       targetPort: 8283
       nodePort: 30082
