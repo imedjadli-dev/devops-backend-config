@@ -9,5 +9,5 @@ spec:
     app: spring-service
   ports:
     - port: 8283
-      targetPort: 8283
+      targetPort: 8282
       nodePort: 30082
